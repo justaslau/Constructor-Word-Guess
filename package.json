@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-game",
+  "version": "1.0.0",
+  "description": "Word guess game using separate files and object constructors.",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justaslau/Constructor-Word-Guess.git"
+  },
+  "author": "Justas Lauzinskas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justaslau/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/justaslau/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2"
+  }
+}
